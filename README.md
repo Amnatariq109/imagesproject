@@ -1,2 +1,16 @@
 # imagesproject
-This Flutter project is an image management app that allows users to add, update, search, and delete images with metadata, such as name, type, and date. It also displays a "Quote of the Day" and supports image selection via the gallery. The UI is designed to be user-friendly, with modern elements like search functionality and refresh options.
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
